@@ -1,0 +1,54 @@
+Series Name,Series Code,Scale (Precision),2000 [YR2000],2010 [YR2010],2016 [YR2016]
+"Population, total",SP.POP.TOTL,Millions (0.00),282.16,309.35,323.13
+Population growth (annual %),SP.POP.GROW,Unit (0.0),1.1,0.8,0.7
+Surface area (sq. km),AG.SRF.TOTL.K2,Thousands (0.0),9632,9831.5,9831.5
+Population density (people per sq. km of land area),EN.POP.DNST,Unit (0.0),30.8,33.8,35.3
+Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,Unit (0.0),0.7,1,1
+"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,Billions (0.00),10178.5,15143.14,18153.49
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Unit (0),36070,48950,56180
+"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,Billions (0.00),10421.26,15121.13,18749.69
+"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,Unit (0),36930,48880,58030
+Income share held by lowest 20%,SI.DST.FRST.20,Unit (0.0),5.4,5.1,5.1
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Unit (0),77,79,..
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Unit (0.0),2.1,1.9,1.8
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Unit (0),46,34,..
+"Contraceptive prevalence, any methods (% of women ages 15-49)",SP.DYN.CONU.ZS,Unit (0),..,76,..
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Unit (0),99,99,..
+"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,Unit (0),8,7,7
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Unit (0.0),1.1,0.8,
+"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,Unit (0),91,92,92
+"School enrollment, primary (% gross)",SE.PRM.ENRR,Unit (0.0),102.5,100.6,100.1
+"School enrollment, secondary (% gross)",SE.SEC.ENRR,Unit (0),93,94,..
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,Unit (0),1,1,..
+"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,Unit (0.0),,0.5,0.5
+Forest area (sq. km),AG.LND.FRST.K2,Thousands (0.0),3035.4,3087.2,..
+Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,Unit (0.0),11.9,,14.8
+"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,Unit (0.0),19.8,17.2,17.2
+Improved water source (% of population with access),SH.H2O.SAFE.ZS,Unit (0),99,99,..
+Improved sanitation facilities (% of population with access),SH.STA.ACSN,Unit (0),100,100,..
+Urban population growth (annual %),SP.URB.GROW,Unit (0.0),1.5,1,0.9
+Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,Unit (0),8057,7161,..
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,Unit (0.00),20.18,17.44,..
+Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,Unit (0),13671,13394,..
+GDP (current US$),NY.GDP.MKTP.CD,Billions (0.00),10284.78,14964.37,18569.1
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,Unit (0.0),4.1,2.5,1.6
+"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,Unit (0.0),2.3,1.2,1.3
+"Agriculture, value added (% of GDP)",NV.AGR.TOTL.ZS,Unit (0),1,1,..
+"Industry, value added (% of GDP)",NV.IND.TOTL.ZS,Unit (0),23,20,..
+"Services, etc., value added (% of GDP)",NV.SRV.TETC.ZS,Unit (0),76,78,..
+Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,Unit (0),11,12,..
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Unit (0),14,16,..
+Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,Unit (0),24,18,..
+"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,Unit (0.0),20.5,16.5,19
+Net lending (+) / net borrowing (-) (% of GDP),GC.NLD.TOTL.GD.ZS,Unit (0.0),2.2,-10.1,-3.8
+Time required to start a business (days),IC.REG.DURS,Unit (0),..,5,6
+Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,Unit (0.0),191,231.4,242.6
+Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,Unit (0.0),12.9,8.6,11.3
+Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,Unit (0.0),2.9,4.7,3.3
+Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,Unit (0.0),38.5,91.3,127.2
+Individuals using the Internet (% of population),IT.NET.USER.ZS,Unit (0.0),43.1,71.7,76.2
+High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,Unit (0),34,20,20
+Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,Unit (0),20,22,..
+Net barter terms of trade index (2000 = 100),TT.PRI.MRCH.XD.WD,Unit (0),100,97,..
+"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,Millions (0),4395,5930,6547
+"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,Millions (0),350066,259344,479415
